@@ -1,0 +1,44 @@
+URL: https://www.youtube.com/watch?v=M_leNmT7xvM
+Total unique tags: 19
+
+Tags sorted lexicographically:
+#root                : 1
+a                    : 14
+body                 : 1
+div                  : 101
+g                    : 5
+head                 : 1
+html                 : 1
+iframe               : 1
+input                : 1
+link                 : 34
+meta                 : 88
+path                 : 19
+script               : 50
+span                 : 6
+style                : 5
+svg                  : 3
+title                : 1
+ytd-app              : 1
+ytd-masthead         : 1
+
+Tags sorted by frequency:
+#root                : 1
+body                 : 1
+head                 : 1
+html                 : 1
+iframe               : 1
+input                : 1
+title                : 1
+ytd-app              : 1
+ytd-masthead         : 1
+svg                  : 3
+g                    : 5
+style                : 5
+span                 : 6
+a                    : 14
+path                 : 19
+link                 : 34
+script               : 50
+meta                 : 88
+div                  : 101
